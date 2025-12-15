@@ -80,3 +80,5 @@ export const getTrendingSongs = async (req, res, next) => {
 		next(error);
 	}
 };
+
+
