@@ -12,3 +12,5 @@ const albumSchema = new mongoose.Schema(
 ); //  createdAt, updatedAt
 
 export const Album = mongoose.model("Album", albumSchema);
+  
+
