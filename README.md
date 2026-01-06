@@ -195,10 +195,6 @@ npm run seed:all       # Seed everything
 2. Deploy the `dist` folder to your hosting platform
 3. Configure environment variables
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ## 🤝 Contributing
 
 1. Fork the repository
