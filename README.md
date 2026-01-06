@@ -119,7 +119,7 @@ A modern, full-stack music streaming application built with React, Node.js, and 
 ## 📁 Project Structure
 
 ```
-Amar_Gaan/
+Aura/
 ├── backend/                 # Node.js backend API
 │   ├── src/
 │   │   ├── controllers/     # Route controllers
