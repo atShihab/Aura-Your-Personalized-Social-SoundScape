@@ -67,7 +67,7 @@ A modern, full-stack music streaming application built with React, Node.js, and 
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd Amar_Gaan
+   cd Aura
    ```
 
 2. **Install dependencies**
