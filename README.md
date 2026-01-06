@@ -1,4 +1,4 @@
-# SoundScape - Music Streaming Platform
+# Aura - Music Streaming Platform
 
 A modern, full-stack music streaming application built with React, Node.js, and MongoDB. SoundScape provides a comprehensive music streaming experience with real-time features, social interactions, and artist management tools.
 
@@ -213,4 +213,4 @@ For support and questions, please contact the development team.
 
 ---
 
-**SoundScape** - The Future of Music Streaming 🎵
+**Aura** - The Future of Music Streaming 🎵
