@@ -1,0 +1,48 @@
+export const GENRES = [
+	"Pop",
+	"Rock",
+	"Hip-Hop",
+	"Electronic",
+	"Jazz",
+	"Classical",
+	"Country",
+	"R&B",
+	"Folk",
+	"Metal",
+	"Punk",
+	"Blues",
+	"Reggae",
+	"Indie",
+	"Alternative",
+	"EDM",
+	"Trap",
+	"Lo-Fi",
+	"Ambient",
+	"Other",
+] as const;
+
+export const MOODS = [
+	"Happy",
+	"Sad",
+	"Energetic",
+	"Chill",
+	"Romantic",
+	"Melancholic",
+	"Uplifting",
+	"Dark",
+	"Peaceful",
+	"Angry",
+	"Excited",
+	"Calm",
+	"Passionate",
+	"Reflective",
+	"Playful",
+	"Intense",
+	"Dreamy",
+	"Confident",
+	"Nostalgic",
+	"Motivational",
+] as const;
+
+export type Genre = typeof GENRES[number];
+export type Mood = typeof MOODS[number];
